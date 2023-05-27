@@ -1,0 +1,53 @@
+img
+{
+    width: 100px;
+    border-radius: 1000px;
+    transform: rotate(360);
+}
+.rotate:hover
+{
+    transform: rotate(360);
+}
+button
+{
+    color: rgb(rgb(255, 255, 255));
+    background-color: rgba(167, 185, 65, 0.345);
+    position: absolute;
+    font-size: 32px;
+    top: 50%;
+    left: 36%;
+    border: none;
+    border-radius: 12px;
+}
+.btn:hover
+{
+    color: rgb(rgb(255, 255, 255));
+    background-color: rgba(167, 140, 80, 0.801);
+    padding: 2px 8px;
+}
+p{
+    margin-top: 0px;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    text-align: center;
+}
+.bg
+{
+    height: 100%;
+    background-color: #858764;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    align-items: center;
+
+}
+.im1
+{
+    background-image: url("images/wallpaperflare.com_wallpaper.jpg");
+}
+.im2
+{
+    background-image: url("images/wp4676591-4k-pc-wallpapers.jpg");
+}
