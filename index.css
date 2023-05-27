@@ -26,16 +26,15 @@ button
     padding: 2px 8px;
 }
 p{
-
-    color: black;
+    margin-top: 0px;
+    color: rgb(255, 255, 255);
     font-size: 40px;
     text-align: center;
 }
 .bg
 {
     height: 100%;
-    background-color: #cccccc;
-    background-image: url("images/wallpaperflare.com_wallpaper.jpg");
+    background-color: #858764;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -43,4 +42,12 @@ p{
     position: relative;
     align-items: center;
 
+}
+.im1
+{
+    background-image: url("images/wallpaperflare.com_wallpaper.jpg");
+}
+.im2
+{
+    background-image: url("images/wp4676591-4k-pc-wallpapers.jpg");
 }
